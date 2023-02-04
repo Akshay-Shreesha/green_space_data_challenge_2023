@@ -5,6 +5,9 @@ Shared repo for Georgetown's Green Space Data Challenge occurring in February 20
 ## Contributors:
 
 Liz Johnson (me) - emj1020
+
 Natalie Quah -
+
 Ajay Rangan - 
+
 Akshay Shetty - 
